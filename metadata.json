@@ -1,0 +1,8 @@
+{
+  "name": "Remix UnderwriteAI Enterprise",
+  "description": "Autonomous multi-line insurance risk assessment, OCR document verification, SHAP explainability, and human-in-the-loop underwriting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
